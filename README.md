@@ -8,17 +8,36 @@ Tasked with running our credit card data through a few different sencarios, we o
 ### Reveiw of the Balanced Accuracy, Precision, and Recall Scores for each manchine learning model used. 
 - RandomOverSampler
 
+![](images/ramdomoversampler_accuracy.PNG)
+
+![](images/ramdomoversampler_precision_accuracy.PNG)
 
 - SMOTE
 
+![](images/smote_accuracy.PNG)
+
+![](images/smote_precision_accuracy.PNG)
 
 - ClusterCentroids
 
+![](images/ClusterCentroids_accuracy.PNG)
+
+![](images/ClusterCentroids_precision_accuracy.PNG)
 
 - SMOTEENN
 
+![](images/SMOTEEN_accuracy.PNG)
+
+![](images/SMOTEEN_precision_accuracy.PNG)
 
 - BalancedRandomForestClassifer
 
+![](images/BalancedRandomForestClassifer_accuracy.PNG)
+
+![](images/BalancedRandomForestClassifer_precision_accuracy.PNG)
 
 - EasyEnsembleClassifer
+
+![](images/EasyEnsemlbeClassifer_accuracy.PNG)
+
+![](images/EasyEnsembleclassifer_precision_accuracy.PNG)
